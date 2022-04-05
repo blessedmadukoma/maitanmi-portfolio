@@ -342,15 +342,15 @@ section .title::after{
     background: lightgrey;
     position: relative;
 }
-.courses .courses-content .right .line::before{
+/* .courses .courses-content .right .line::before{
     content: "";
     position: absolute;
     height: 100%;
     left: 0;
     top: 0;
     background: #4070F4;
-}
-.courses-content .right .html::before{
+} */
+/* .courses-content .right .html::before{
     width: 85%;
 }
 .courses-content .right .css::before{
@@ -361,7 +361,7 @@ section .title::after{
 }
 .courses-content .right .php::before{
     width: 90%;
-}
+} */
 /* teams section styling */
 .teams .title::after{
     content: "who with me";
